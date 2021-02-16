@@ -1,17 +1,17 @@
 {
-  "name": "aseprite-language-italian",
-  "displayName": "it",
-  "description": "Traduzione in italiano da parte di Fabiano Caputo. Per suggerimenti o commenti, per favore scrivetemi a fabiano.caputo@outlook.it o contattatemi sul forum di Aseprite.",
+  "name": "aseprite-language-german",
+  "displayName": "DE",
+  "description": "inofizielle Deutsche Übersetzung für Aseprite",
   "version": "1.0",
-  "publisher": "Fabiano Caputo",
+  "publisher": "Stephan Hagenguth",
   "license": "CC-BY-SA-4.0",
-  "author": { "name": "Fabiano Caputo", "url": "https://community.aseprite.org/u/fabiano" },
+  "author": { "name": "Stephan Hagenguth", "url": "https://github.com/KnuTNatioN/test-aseprite_german" },
   "categories": [
     "Languages"
   ],
   "contributes": {
     "languages": [
-      { "id": "it", "path": "./it.ini" }
+      { "id": "DE", "path": "./DE.ini" }
     ]
   }
 }
